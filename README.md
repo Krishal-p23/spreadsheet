@@ -6,7 +6,7 @@ This is a fully refactored React-based spreadsheet application with a clean, mod
 ## Directory Structure
 
 ```
-new folder/
+spreadsheet/
 ├── index.html                 # Main HTML entry point
 ├── styles/
 │   └── style.css             # All application styles
