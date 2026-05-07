@@ -148,10 +148,9 @@ npm run preview  # Preview production build
 
 ## 🌐 Deployment
 
-You can deploy this project easily using:
-
-- Vercel  
-- Netlify  
+The project is deployed using Vercel  
+Vercel link: 
+``` https://spreadsheet-blond.vercel.app/ ```
 
 ---
 
@@ -182,12 +181,6 @@ Contributions are welcome!
 2. Create a new branch  
 3. Make your changes  
 4. Submit a pull request  
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
 
 ---
 
